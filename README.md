@@ -1,2 +1,2 @@
 # CSC325ClassProject
-Personas representing the end users, developers, and owner of the software.
+Rigt now just stores the file that holds the personas representing the end users, developers, and owner of the software.
