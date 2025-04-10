@@ -1,0 +1,10 @@
+#Node generated files
+node_modules
+package.json
+package-lock.json
+ 
+ # Vale generated files
+styles
+
+# Keep these files
+!website/package.json
