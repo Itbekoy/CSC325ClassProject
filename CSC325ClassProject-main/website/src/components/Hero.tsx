@@ -97,9 +97,10 @@ export default function Hero() {
               width: { sm: '100%', md: '80%' },
             }}
           >
-            Explore our cutting-edge dashboard, delivering high-quality solutions
-            tailored to your needs. Elevate your experience with top-tier features
-            and services.
+            You're on a mission to build exceptional tech teams—and I’m here to make it easier 
+            for you. As a passionate junior developer, I bring fresh ideas, problem-solving 
+            skills, automation, and a commitment to delivering results. Let’s work together to turn your 
+            challenges into opportunities, and ensure your team thrives.
           </Typography>
           <Stack
             direction={{ xs: 'column', sm: 'row' }}
