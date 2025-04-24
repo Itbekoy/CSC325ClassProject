@@ -25,5 +25,5 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_COYSEPICPROJECT1_2C0C7 }}
           channelId: live
-          projectId: coysepicproject1
+          projectId: coysepicproject1-2c0c7
           entryPoint: ./website
